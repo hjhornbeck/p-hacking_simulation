@@ -1,5 +1,5 @@
 # P-hacking Simulation
-#  as seen at http://freethoughtblogs.com/reprobate/2017/05/15/p-hacking-is-no-big-deal/
+# http://freethoughtblogs.com/reprobate/2017/05/15/p-hacking-is-no-big-deal/
 
 The scripts should be fairly intuitive to understand. They come in three variants:
 
